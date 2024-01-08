@@ -4,7 +4,7 @@
 
 🌐 [LinkedIn](https://www.linkedin.com/in/asmimitra/) | 📧 asmi.mitra21@gmail.com
 
-### 👋 About Me:
+### 👋🏼 About Me:
 Creative to the core, my journey spans from dance & drama to digital art and coding robots. I bring a diverse set of skills and a positive approach to every challenge. As a dedicated and forward-thinking professional, I am deeply immersed in the dynamic realms of software engineering, artificial intelligence (AI), machine learning (ML), and data science.
 
 ### 🎓 Education:
@@ -22,7 +22,7 @@ I have a strong analytical mindset and a deep appreciation for extracting valuab
 ### 🔍 Professional Opportunities:
 Eager to apply my skills and knowledge within a dynamic team, I am actively pursuing opportunities in software engineering, AI, or data science. I am enthusiastic about taking on challenges that will allow me to further refine my technical expertise and make a substantial impact.
 
-### 🌐 Let's Connect!
+### 🤝🏼 Let's Connect!
 I am passionate about collaborating with like-minded professionals, industry experts, and fellow enthusiasts. Let's share insights and explore the possibilities at the intersection of technology and innovation.
 
 Feel free to reach out for networking, collaboration, or discussions on the latest advancements in software engineering and AI.
